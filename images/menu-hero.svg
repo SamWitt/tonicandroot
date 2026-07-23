@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900" width="1800" height="900" role="img" aria-label="The Menu — photo placeholder">
+  <defs>
+    <linearGradient id="g_menu_hero" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F4C4C"/>
+      <stop offset="100%" stop-color="#6B7C4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="900" fill="url(#g_menu_hero)"/>
+  <g transform="translate(247,124) rotate(275)" opacity="0.07"><path d="M0,0 C 45,-75 75,-22 75,0 C 75,22 45,75 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(353,353) rotate(137)" opacity="0.07"><path d="M0,0 C 29,-48 48,-14 48,0 C 48,14 29,48 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(812,720) rotate(248)" opacity="0.07"><path d="M0,0 C 54,-90 90,-27 90,0 C 90,27 54,90 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1744,653) rotate(124)" opacity="0.07"><path d="M0,0 C 31,-52 52,-16 52,0 C 52,16 31,52 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(896,872) rotate(242)" opacity="0.07"><path d="M0,0 C 55,-91 91,-27 91,0 C 91,27 55,91 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1179,896) rotate(121)" opacity="0.07"><path d="M0,0 C 41,-68 68,-20 68,0 C 68,20 41,68 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1087,561) rotate(60)" opacity="0.07"><path d="M0,0 C 57,-95 95,-28 95,0 C 95,28 57,95 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="900" cy="406" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 900 386 C 880 362, 920 362, 900 386 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">The Menu</text>
+  <text x="50%" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1800×900</text>
+</svg>

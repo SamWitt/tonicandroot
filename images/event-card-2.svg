@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700" role="img" aria-label="Poetry & Tea — photo placeholder">
+  <defs>
+    <linearGradient id="g_event_card_2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6B7C4B"/>
+      <stop offset="100%" stop-color="#C96A3D"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#g_event_card_2)"/>
+  <g transform="translate(236,184) rotate(211)" opacity="0.07"><path d="M0,0 C 26,-43 43,-13 43,0 C 43,13 26,43 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(861,637) rotate(105)" opacity="0.07"><path d="M0,0 C 34,-56 56,-17 56,0 C 56,17 34,56 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(279,167) rotate(232)" opacity="0.07"><path d="M0,0 C 55,-92 92,-28 92,0 C 92,28 55,92 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(184,458) rotate(296)" opacity="0.07"><path d="M0,0 C 61,-101 101,-30 101,0 C 101,30 61,101 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(688,143) rotate(148)" opacity="0.07"><path d="M0,0 C 33,-55 55,-16 55,0 C 55,16 33,55 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(438,368) rotate(74)" opacity="0.07"><path d="M0,0 C 35,-59 59,-18 59,0 C 59,18 35,59 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(759,659) rotate(37)" opacity="0.07"><path d="M0,0 C 55,-92 92,-28 92,0 C 92,28 55,92 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="450" cy="316" r="28" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 450 300 C 434 282, 466 282, 450 300 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="366" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="31" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Poetry & Tea</text>
+  <text x="50%" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 900×700</text>
+</svg>

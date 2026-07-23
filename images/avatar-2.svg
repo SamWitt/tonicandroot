@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="J. — photo placeholder">
+  <defs>
+    <linearGradient id="g_avatar_2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C96A3D"/>
+      <stop offset="100%" stop-color="#6B7C4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" fill="url(#g_avatar_2)"/>
+  <g transform="translate(168,168) rotate(155)" opacity="0.07"><path d="M0,0 C 55,-91 91,-27 91,0 C 91,27 55,91 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(40,81) rotate(257)" opacity="0.07"><path d="M0,0 C 50,-84 84,-25 84,0 C 84,25 50,84 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(213,130) rotate(308)" opacity="0.07"><path d="M0,0 C 50,-83 83,-25 83,0 C 83,25 50,83 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(209,227) rotate(334)" opacity="0.07"><path d="M0,0 C 30,-50 50,-15 50,0 C 50,15 30,50 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(223,209) rotate(347)" opacity="0.07"><path d="M0,0 C 44,-74 74,-22 74,0 C 74,22 44,74 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(104,206) rotate(173)" opacity="0.07"><path d="M0,0 C 58,-96 96,-29 96,0 C 96,29 58,96 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(186,176) rotate(266)" opacity="0.07"><path d="M0,0 C 42,-70 70,-21 70,0 C 70,21 42,70 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="120" cy="100" r="16" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 120 91 C 111 80, 129 80, 120 91 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="129" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#F8F3EC" opacity="0.85" letter-spacing="1">J.</text>
+  <text x="50%" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 240×240</text>
+</svg>

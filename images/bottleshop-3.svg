@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Adaptogen Tonic — photo placeholder">
+  <defs>
+    <linearGradient id="g_bottleshop_3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6B7C4B"/>
+      <stop offset="100%" stop-color="#C9A24B"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g_bottleshop_3)"/>
+  <g transform="translate(433,541) rotate(322)" opacity="0.07"><path d="M0,0 C 30,-50 50,-15 50,0 C 50,15 30,50 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(75,192) rotate(341)" opacity="0.07"><path d="M0,0 C 44,-74 74,-22 74,0 C 74,22 44,74 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(204,24) rotate(170)" opacity="0.07"><path d="M0,0 C 38,-64 64,-19 64,0 C 64,19 38,64 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(615,125) rotate(265)" opacity="0.07"><path d="M0,0 C 28,-46 46,-14 46,0 C 46,14 28,46 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(489,769) rotate(312)" opacity="0.07"><path d="M0,0 C 25,-41 41,-12 41,0 C 41,12 25,41 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(631,220) rotate(156)" opacity="0.07"><path d="M0,0 C 34,-56 56,-17 56,0 C 56,17 34,56 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(791,153) rotate(78)" opacity="0.07"><path d="M0,0 C 26,-44 44,-13 44,0 C 44,13 26,44 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="400" cy="460" r="32" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 400 442 C 382 421, 418 421, 400 442 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="518" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Adaptogen Tonic</text>
+  <text x="50%" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 800×1000</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" width="1200" height="1400" role="img" aria-label="Community Gathering — photo placeholder">
+  <defs>
+    <linearGradient id="g_mission_community" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6B7C4B"/>
+      <stop offset="100%" stop-color="#0F4C4C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1400" fill="url(#g_mission_community)"/>
+  <g transform="translate(9,11) rotate(42)" opacity="0.07"><path d="M0,0 C 25,-42 42,-13 42,0 C 42,13 25,42 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1129,1230) rotate(201)" opacity="0.07"><path d="M0,0 C 24,-40 40,-12 40,0 C 40,12 24,40 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(447,681) rotate(280)" opacity="0.07"><path d="M0,0 C 53,-88 88,-26 88,0 C 88,26 53,88 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(927,258) rotate(320)" opacity="0.07"><path d="M0,0 C 60,-100 100,-30 100,0 C 100,30 60,100 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(433,1082) rotate(160)" opacity="0.07"><path d="M0,0 C 43,-71 71,-21 71,0 C 71,21 43,71 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(852,1010) rotate(80)" opacity="0.07"><path d="M0,0 C 38,-63 63,-19 63,0 C 63,19 38,63 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1181,1180) rotate(220)" opacity="0.07"><path d="M0,0 C 27,-45 45,-14 45,0 C 45,14 27,45 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="600" cy="641" r="49" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 600 614 C 573 581, 627 581, 600 614 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="727" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Community Gathering</text>
+  <text x="50%" y="797" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1200×1400</text>
+</svg>

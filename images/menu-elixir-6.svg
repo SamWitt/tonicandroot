@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Ginger Root — photo placeholder">
+  <defs>
+    <linearGradient id="g_menu_elixir_6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C96A3D"/>
+      <stop offset="100%" stop-color="#C9A24B"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#g_menu_elixir_6)"/>
+  <g transform="translate(314,314) rotate(300)" opacity="0.07"><path d="M0,0 C 46,-76 76,-23 76,0 C 76,23 46,76 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(521,238) rotate(330)" opacity="0.07"><path d="M0,0 C 39,-65 65,-20 65,0 C 65,20 39,65 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(684,329) rotate(345)" opacity="0.07"><path d="M0,0 C 47,-78 78,-23 78,0 C 78,23 47,78 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(593,744) rotate(172)" opacity="0.07"><path d="M0,0 C 49,-81 81,-24 81,0 C 81,24 49,81 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(85,593) rotate(86)" opacity="0.07"><path d="M0,0 C 40,-66 66,-20 66,0 C 66,20 40,66 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(756,173) rotate(43)" opacity="0.07"><path d="M0,0 C 56,-94 94,-28 94,0 C 94,28 56,94 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(800,621) rotate(201)" opacity="0.07"><path d="M0,0 C 61,-101 101,-30 101,0 C 101,30 61,101 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="400" cy="360" r="32" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 400 342 C 382 321, 418 321, 400 342 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="418" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Ginger Root</text>
+  <text x="50%" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 800×800</text>
+</svg>

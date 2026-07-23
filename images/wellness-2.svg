@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Tea Ceremony — photo placeholder">
+  <defs>
+    <linearGradient id="g_wellness_2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C9A24B"/>
+      <stop offset="100%" stop-color="#C96A3D"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g_wellness_2)"/>
+  <g transform="translate(448,548) rotate(199)" opacity="0.07"><path d="M0,0 C 62,-103 103,-31 103,0 C 103,31 62,103 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(25,65) rotate(279)" opacity="0.07"><path d="M0,0 C 43,-71 71,-21 71,0 C 71,21 43,71 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(113,556) rotate(319)" opacity="0.07"><path d="M0,0 C 28,-47 47,-14 47,0 C 47,14 28,47 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(685,69) rotate(159)" opacity="0.07"><path d="M0,0 C 25,-41 41,-12 41,0 C 41,12 25,41 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(42,837) rotate(79)" opacity="0.07"><path d="M0,0 C 43,-72 72,-22 72,0 C 72,22 43,72 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(621,104) rotate(219)" opacity="0.07"><path d="M0,0 C 29,-48 48,-14 48,0 C 48,14 29,48 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(265,841) rotate(289)" opacity="0.07"><path d="M0,0 C 25,-42 42,-13 42,0 C 42,13 25,42 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="450" cy="506" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 450 486 C 430 462, 470 462, 450 486 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="570" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Tea Ceremony</text>
+  <text x="50%" y="622" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 900×1100</text>
+</svg>

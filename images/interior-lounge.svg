@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Lounge Interior — photo placeholder">
+  <defs>
+    <linearGradient id="g_interior_lounge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A67C52"/>
+      <stop offset="100%" stop-color="#F8F3EC"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#g_interior_lounge)"/>
+  <g transform="translate(1324,827) rotate(203)" opacity="0.07"><path d="M0,0 C 35,-59 59,-18 59,0 C 59,18 35,59 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1085,353) rotate(281)" opacity="0.07"><path d="M0,0 C 55,-92 92,-28 92,0 C 92,28 55,92 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(264,671) rotate(140)" opacity="0.07"><path d="M0,0 C 51,-85 85,-26 85,0 C 85,26 51,85 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(816,82) rotate(250)" opacity="0.07"><path d="M0,0 C 50,-83 83,-25 83,0 C 83,25 50,83 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(954,510) rotate(125)" opacity="0.07"><path d="M0,0 C 49,-82 82,-25 82,0 C 82,25 49,82 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(257,188) rotate(62)" opacity="0.07"><path d="M0,0 C 30,-50 50,-15 50,0 C 50,15 30,50 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1016,651) rotate(211)" opacity="0.07"><path d="M0,0 C 25,-42 42,-13 42,0 C 42,13 25,42 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="800" cy="450" r="40" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 800 428 C 778 401, 822 401, 800 428 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="522" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="45" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Lounge Interior</text>
+  <text x="50%" y="581" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1600×1000</text>
+</svg>

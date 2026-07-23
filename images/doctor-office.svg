@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000" role="img" aria-label="Wellness Room — photo placeholder">
+  <defs>
+    <linearGradient id="g_doctor_office" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6B7C4B"/>
+      <stop offset="100%" stop-color="#F8F3EC"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="1000" fill="url(#g_doctor_office)"/>
+  <g transform="translate(1021,729) rotate(250)" opacity="0.07"><path d="M0,0 C 59,-98 98,-29 98,0 C 98,29 59,98 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(851,216) rotate(125)" opacity="0.07"><path d="M0,0 C 52,-86 86,-26 86,0 C 86,26 52,86 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1367,902) rotate(62)" opacity="0.07"><path d="M0,0 C 40,-67 67,-20 67,0 C 67,20 40,67 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(873,988) rotate(31)" opacity="0.07"><path d="M0,0 C 47,-78 78,-23 78,0 C 78,23 47,78 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(49,624) rotate(195)" opacity="0.07"><path d="M0,0 C 58,-97 97,-29 97,0 C 97,29 58,97 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1142,75) rotate(277)" opacity="0.07"><path d="M0,0 C 61,-102 102,-31 102,0 C 102,31 61,102 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1038,259) rotate(318)" opacity="0.07"><path d="M0,0 C 43,-71 71,-21 71,0 C 71,21 43,71 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="700" cy="450" r="40" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 700 428 C 678 401, 722 401, 700 428 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="522" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="45" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Wellness Room</text>
+  <text x="50%" y="581" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1400×1000</text>
+</svg>

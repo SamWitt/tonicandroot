@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Inside Vine & Sunset — photo placeholder">
+  <defs>
+    <linearGradient id="g_about_space" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B6B6B"/>
+      <stop offset="100%" stop-color="#F8F3EC"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#g_about_space)"/>
+  <g transform="translate(188,118) rotate(310)" opacity="0.07"><path d="M0,0 C 42,-70 70,-21 70,0 C 70,21 42,70 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1412,765) rotate(335)" opacity="0.07"><path d="M0,0 C 28,-47 47,-14 47,0 C 47,14 28,47 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(88,220) rotate(167)" opacity="0.07"><path d="M0,0 C 44,-73 73,-22 73,0 C 73,22 44,73 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(402,27) rotate(83)" opacity="0.07"><path d="M0,0 C 58,-96 96,-29 96,0 C 96,29 58,96 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(527,251) rotate(41)" opacity="0.07"><path d="M0,0 C 32,-54 54,-16 54,0 C 54,16 32,54 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1437,659) rotate(200)" opacity="0.07"><path d="M0,0 C 26,-43 43,-13 43,0 C 43,13 26,43 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(891,584) rotate(280)" opacity="0.07"><path d="M0,0 C 24,-40 40,-12 40,0 C 40,12 24,40 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="800" cy="450" r="40" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 800 428 C 778 401, 822 401, 800 428 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="522" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="45" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Inside Vine & Sunset</text>
+  <text x="50%" y="581" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1600×1000</text>
+</svg>

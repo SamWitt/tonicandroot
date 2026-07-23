@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="The Ritual of the Elixir Hour — photo placeholder">
+  <defs>
+    <linearGradient id="g_blog_post_1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F4C4C"/>
+      <stop offset="100%" stop-color="#C9A24B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g_blog_post_1)"/>
+  <g transform="translate(969,646) rotate(86)" opacity="0.07"><path d="M0,0 C 32,-54 54,-16 54,0 C 54,16 32,54 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(659,78) rotate(223)" opacity="0.07"><path d="M0,0 C 55,-91 91,-27 91,0 C 91,27 55,91 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(791,511) rotate(291)" opacity="0.07"><path d="M0,0 C 31,-52 52,-16 52,0 C 52,16 31,52 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(499,264) rotate(145)" opacity="0.07"><path d="M0,0 C 45,-75 75,-22 75,0 C 75,22 45,75 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(405,333) rotate(252)" opacity="0.07"><path d="M0,0 C 48,-80 80,-24 80,0 C 80,24 48,80 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(701,543) rotate(126)" opacity="0.07"><path d="M0,0 C 49,-82 82,-25 82,0 C 82,25 49,82 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(795,267) rotate(243)" opacity="0.07"><path d="M0,0 C 49,-82 82,-25 82,0 C 82,25 49,82 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="600" cy="360" r="32" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 600 342 C 582 321, 618 321, 600 342 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="418" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#F8F3EC" opacity="0.85" letter-spacing="1">The Ritual of the Elixir Hour</text>
+  <text x="50%" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1200×800</text>
+</svg>

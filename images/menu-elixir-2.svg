@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Meadow Fizz — photo placeholder">
+  <defs>
+    <linearGradient id="g_menu_elixir_2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6B7C4B"/>
+      <stop offset="100%" stop-color="#C9A24B"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#g_menu_elixir_2)"/>
+  <g transform="translate(223,223) rotate(351)" opacity="0.07"><path d="M0,0 C 28,-47 47,-14 47,0 C 47,14 28,47 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(13,25) rotate(355)" opacity="0.07"><path d="M0,0 C 34,-57 57,-17 57,0 C 57,17 34,57 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(653,204) rotate(177)" opacity="0.07"><path d="M0,0 C 26,-44 44,-13 44,0 C 44,13 26,44 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(242,326) rotate(88)" opacity="0.07"><path d="M0,0 C 25,-41 41,-12 41,0 C 41,12 25,41 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(464,242) rotate(44)" opacity="0.07"><path d="M0,0 C 34,-56 56,-17 56,0 C 56,17 34,56 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(380,129) rotate(202)" opacity="0.07"><path d="M0,0 C 55,-92 92,-28 92,0 C 92,28 55,92 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(524,718) rotate(281)" opacity="0.07"><path d="M0,0 C 32,-53 53,-16 53,0 C 53,16 32,53 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="400" cy="360" r="32" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 400 342 C 382 321, 418 321, 400 342 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="418" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Meadow Fizz</text>
+  <text x="50%" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 800×800</text>
+</svg>

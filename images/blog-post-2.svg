@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Why We Chose Sober-Curious — photo placeholder">
+  <defs>
+    <linearGradient id="g_blog_post_2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C96A3D"/>
+      <stop offset="100%" stop-color="#6B7C4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g_blog_post_2)"/>
+  <g transform="translate(635,424) rotate(31)" opacity="0.07"><path d="M0,0 C 28,-47 47,-14 47,0 C 47,14 28,47 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(339,452) rotate(195)" opacity="0.07"><path d="M0,0 C 44,-73 73,-22 73,0 C 73,22 44,73 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(320,56) rotate(97)" opacity="0.07"><path d="M0,0 C 29,-48 48,-14 48,0 C 48,14 29,48 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(621,107) rotate(48)" opacity="0.07"><path d="M0,0 C 35,-58 58,-17 58,0 C 58,17 35,58 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(414,414) rotate(24)" opacity="0.07"><path d="M0,0 C 26,-44 44,-13 44,0 C 44,13 26,44 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1002,552) rotate(12)" opacity="0.07"><path d="M0,0 C 34,-57 57,-17 57,0 C 57,17 34,57 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(965,270) rotate(186)" opacity="0.07"><path d="M0,0 C 26,-44 44,-13 44,0 C 44,13 26,44 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="600" cy="360" r="32" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 600 342 C 582 321, 618 321, 600 342 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="418" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Why We Chose Sober-Curious</text>
+  <text x="50%" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1200×800</text>
+</svg>

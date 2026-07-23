@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Herbal Aperitif — photo placeholder">
+  <defs>
+    <linearGradient id="g_bottleshop_2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C96A3D"/>
+      <stop offset="100%" stop-color="#6B7C4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g_bottleshop_2)"/>
+  <g transform="translate(389,486) rotate(156)" opacity="0.07"><path d="M0,0 C 60,-100 100,-30 100,0 C 100,30 60,100 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(574,435) rotate(78)" opacity="0.07"><path d="M0,0 C 43,-71 71,-21 71,0 C 71,21 43,71 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(637,176) rotate(39)" opacity="0.07"><path d="M0,0 C 57,-95 95,-28 95,0 C 95,28 57,95 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(339,396) rotate(199)" opacity="0.07"><path d="M0,0 C 51,-85 85,-26 85,0 C 85,26 51,85 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(220,424) rotate(279)" opacity="0.07"><path d="M0,0 C 31,-51 51,-15 51,0 C 51,15 31,51 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(414,553) rotate(139)" opacity="0.07"><path d="M0,0 C 54,-90 90,-27 90,0 C 90,27 54,90 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(678,67) rotate(69)" opacity="0.07"><path d="M0,0 C 50,-84 84,-25 84,0 C 84,25 50,84 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="400" cy="460" r="32" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 400 442 C 382 421, 418 421, 400 442 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="518" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Herbal Aperitif</text>
+  <text x="50%" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 800×1000</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000" role="img" aria-label="Live Music Night — photo placeholder">
+  <defs>
+    <linearGradient id="g_event_live_music" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F4C4C"/>
+      <stop offset="100%" stop-color="#C96A3D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="1000" fill="url(#g_event_live_music)"/>
+  <g transform="translate(225,161) rotate(297)" opacity="0.07"><path d="M0,0 C 49,-81 81,-24 81,0 C 81,24 49,81 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1153,647) rotate(148)" opacity="0.07"><path d="M0,0 C 30,-50 50,-15 50,0 C 50,15 30,50 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(247,706) rotate(74)" opacity="0.07"><path d="M0,0 C 35,-58 58,-17 58,0 C 58,17 35,58 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1241,86) rotate(37)" opacity="0.07"><path d="M0,0 C 55,-92 92,-28 92,0 C 92,28 55,92 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(340,886) rotate(18)" opacity="0.07"><path d="M0,0 C 51,-85 85,-26 85,0 C 85,26 51,85 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1246,486) rotate(9)" opacity="0.07"><path d="M0,0 C 31,-51 51,-15 51,0 C 51,15 31,51 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(867,561) rotate(4)" opacity="0.07"><path d="M0,0 C 44,-74 74,-22 74,0 C 74,22 44,74 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="700" cy="450" r="40" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 700 428 C 678 401, 722 401, 700 428 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="522" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="45" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Live Music Night</text>
+  <text x="50%" y="581" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1400×1000</text>
+</svg>

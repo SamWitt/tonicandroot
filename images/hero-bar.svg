@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" role="img" aria-label="Botanical Elixir Bar — photo placeholder">
+  <defs>
+    <linearGradient id="g_hero_bar" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F4C4C"/>
+      <stop offset="100%" stop-color="#1B6B6B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#g_hero_bar)"/>
+  <g transform="translate(60,34) rotate(120)" opacity="0.07"><path d="M0,0 C 29,-48 48,-14 48,0 C 48,14 29,48 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(0,4) rotate(60)" opacity="0.07"><path d="M0,0 C 25,-42 42,-13 42,0 C 42,13 25,42 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(723,542) rotate(210)" opacity="0.07"><path d="M0,0 C 24,-40 40,-12 40,0 C 40,12 24,40 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1852,745) rotate(105)" opacity="0.07"><path d="M0,0 C 24,-40 40,-12 40,0 C 40,12 24,40 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1679,1042) rotate(232)" opacity="0.07"><path d="M0,0 C 43,-72 72,-22 72,0 C 72,22 43,72 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1905,805) rotate(296)" opacity="0.07"><path d="M0,0 C 38,-64 64,-19 64,0 C 64,19 38,64 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(474,1046) rotate(328)" opacity="0.07"><path d="M0,0 C 56,-94 94,-28 94,0 C 94,28 56,94 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="960" cy="486" r="44" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 960 462 C 936 432, 984 432, 960 462 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="564" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="49" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Botanical Elixir Bar</text>
+  <text x="50%" y="628" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1920×1080</text>
+</svg>

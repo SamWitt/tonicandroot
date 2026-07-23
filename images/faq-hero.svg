@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 700" width="1800" height="700" role="img" aria-label="Questions & Answers — photo placeholder">
+  <defs>
+    <linearGradient id="g_faq_hero" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F4C4C"/>
+      <stop offset="100%" stop-color="#C96A3D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="700" fill="url(#g_faq_hero)"/>
+  <g transform="translate(1405,546) rotate(111)" opacity="0.07"><path d="M0,0 C 28,-47 47,-14 47,0 C 47,14 28,47 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1214,242) rotate(235)" opacity="0.07"><path d="M0,0 C 53,-89 89,-27 89,0 C 89,27 53,89 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1200,469) rotate(297)" opacity="0.07"><path d="M0,0 C 50,-84 84,-25 84,0 C 84,25 50,84 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(184,585) rotate(328)" opacity="0.07"><path d="M0,0 C 50,-83 83,-25 83,0 C 83,25 50,83 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1362,71) rotate(164)" opacity="0.07"><path d="M0,0 C 49,-82 82,-25 82,0 C 82,25 49,82 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(762,360) rotate(262)" opacity="0.07"><path d="M0,0 C 49,-82 82,-25 82,0 C 82,25 49,82 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(607,483) rotate(131)" opacity="0.07"><path d="M0,0 C 40,-66 66,-20 66,0 C 66,20 40,66 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="900" cy="316" r="28" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 900 300 C 884 282, 916 282, 900 300 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="366" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="31" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Questions & Answers</text>
+  <text x="50%" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1800×700</text>
+</svg>

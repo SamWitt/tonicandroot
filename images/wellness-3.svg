@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="One-on-One Consult — photo placeholder">
+  <defs>
+    <linearGradient id="g_wellness_3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A67C52"/>
+      <stop offset="100%" stop-color="#0F4C4C"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g_wellness_3)"/>
+  <g transform="translate(431,526) rotate(154)" opacity="0.07"><path d="M0,0 C 59,-98 98,-29 98,0 C 98,29 59,98 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(815,893) rotate(77)" opacity="0.07"><path d="M0,0 C 42,-70 70,-21 70,0 C 70,21 42,70 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(896,1074) rotate(38)" opacity="0.07"><path d="M0,0 C 47,-79 79,-24 79,0 C 79,24 47,79 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(279,548) rotate(199)" opacity="0.07"><path d="M0,0 C 58,-97 97,-29 97,0 C 97,29 58,97 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(184,341) rotate(279)" opacity="0.07"><path d="M0,0 C 61,-102 102,-31 102,0 C 102,31 61,102 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(519,453) rotate(139)" opacity="0.07"><path d="M0,0 C 62,-103 103,-31 103,0 C 103,31 62,103 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(879,332) rotate(249)" opacity="0.07"><path d="M0,0 C 33,-55 55,-16 55,0 C 55,16 33,55 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="450" cy="506" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 450 486 C 430 462, 470 462, 450 486 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="570" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">One-on-One Consult</text>
+  <text x="50%" y="622" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 900×1100</text>
+</svg>

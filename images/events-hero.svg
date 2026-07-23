@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900" width="1800" height="900" role="img" aria-label="Events Calendar — photo placeholder">
+  <defs>
+    <linearGradient id="g_events_hero" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C96A3D"/>
+      <stop offset="100%" stop-color="#0F4C4C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="900" fill="url(#g_events_hero)"/>
+  <g transform="translate(1299,649) rotate(288)" opacity="0.07"><path d="M0,0 C 58,-96 96,-29 96,0 C 96,29 58,96 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1772,872) rotate(324)" opacity="0.07"><path d="M0,0 C 52,-86 86,-26 86,0 C 86,26 52,86 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1687,671) rotate(342)" opacity="0.07"><path d="M0,0 C 59,-99 99,-30 99,0 C 99,30 59,99 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(551,420) rotate(351)" opacity="0.07"><path d="M0,0 C 61,-102 102,-31 102,0 C 102,31 61,102 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(706,275) rotate(355)" opacity="0.07"><path d="M0,0 C 52,-87 87,-26 87,0 C 87,26 52,87 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1511,709) rotate(357)" opacity="0.07"><path d="M0,0 C 59,-99 99,-30 99,0 C 99,30 59,99 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1447,314) rotate(358)" opacity="0.07"><path d="M0,0 C 32,-54 54,-16 54,0 C 54,16 32,54 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="900" cy="406" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 900 386 C 880 362, 920 362, 900 386 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Events Calendar</text>
+  <text x="50%" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1800×900</text>
+</svg>

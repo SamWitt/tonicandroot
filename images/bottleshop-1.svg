@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Sparkling Botanical — photo placeholder">
+  <defs>
+    <linearGradient id="g_bottleshop_1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F4C4C"/>
+      <stop offset="100%" stop-color="#C9A24B"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g_bottleshop_1)"/>
+  <g transform="translate(60,75) rotate(283)" opacity="0.07"><path d="M0,0 C 35,-59 59,-18 59,0 C 59,18 35,59 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(656,635) rotate(321)" opacity="0.07"><path d="M0,0 C 26,-44 44,-13 44,0 C 44,13 26,44 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(593,957) rotate(340)" opacity="0.07"><path d="M0,0 C 34,-57 57,-17 57,0 C 57,17 34,57 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(737,369) rotate(170)" opacity="0.07"><path d="M0,0 C 55,-92 92,-28 92,0 C 92,28 55,92 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(94,922) rotate(265)" opacity="0.07"><path d="M0,0 C 61,-101 101,-30 101,0 C 101,30 61,101 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(204,239) rotate(312)" opacity="0.07"><path d="M0,0 C 52,-87 87,-26 87,0 C 87,26 52,87 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(464,27) rotate(156)" opacity="0.07"><path d="M0,0 C 50,-83 83,-25 83,0 C 83,25 50,83 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="400" cy="460" r="32" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 400 442 C 382 421, 418 421, 400 442 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="518" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Sparkling Botanical</text>
+  <text x="50%" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 800×1000</text>
+</svg>

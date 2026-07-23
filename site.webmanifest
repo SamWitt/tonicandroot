@@ -1,0 +1,16 @@
+{
+  "name": "Vine & Sunset",
+  "short_name": "Vine & Sunset",
+  "description": "Akron's nonprofit community gathering place for botanical elixirs, live music, books, and wellness.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F8F3EC",
+  "theme_color": "#0F4C4C",
+  "icons": [
+    {
+      "src": "/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

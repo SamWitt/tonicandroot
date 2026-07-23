@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Golden Hour — photo placeholder">
+  <defs>
+    <linearGradient id="g_menu_elixir_4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C9A24B"/>
+      <stop offset="100%" stop-color="#6B7C4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#g_menu_elixir_4)"/>
+  <g transform="translate(289,289) rotate(292)" opacity="0.07"><path d="M0,0 C 41,-68 68,-20 68,0 C 68,20 41,68 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(668,536) rotate(326)" opacity="0.07"><path d="M0,0 C 38,-63 63,-19 63,0 C 63,19 38,63 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(242,166) rotate(343)" opacity="0.07"><path d="M0,0 C 37,-61 61,-18 61,0 C 61,18 37,61 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(464,521) rotate(171)" opacity="0.07"><path d="M0,0 C 56,-93 93,-28 93,0 C 93,28 56,93 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(380,464) rotate(85)" opacity="0.07"><path d="M0,0 C 32,-53 53,-16 53,0 C 53,16 32,53 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(474,759) rotate(42)" opacity="0.07"><path d="M0,0 C 35,-59 59,-18 59,0 C 59,18 35,59 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(631,295) rotate(21)" opacity="0.07"><path d="M0,0 C 36,-60 60,-18 60,0 C 60,18 36,60 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="400" cy="360" r="32" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 400 342 C 382 321, 418 321, 400 342 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="418" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Golden Hour</text>
+  <text x="50%" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 800×800</text>
+</svg>

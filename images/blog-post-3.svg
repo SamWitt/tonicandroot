@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Meet Our Artisan Vendors — photo placeholder">
+  <defs>
+    <linearGradient id="g_blog_post_3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A67C52"/>
+      <stop offset="100%" stop-color="#1B6B6B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g_blog_post_3)"/>
+  <g transform="translate(932,621) rotate(54)" opacity="0.07"><path d="M0,0 C 28,-46 46,-14 46,0 C 46,14 28,46 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(960,477) rotate(27)" opacity="0.07"><path d="M0,0 C 53,-89 89,-27 89,0 C 89,27 53,89 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(56,160) rotate(193)" opacity="0.07"><path d="M0,0 C 31,-52 52,-16 52,0 C 52,16 31,52 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(602,19) rotate(96)" opacity="0.07"><path d="M0,0 C 55,-91 91,-27 91,0 C 91,27 55,91 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(715,402) rotate(228)" opacity="0.07"><path d="M0,0 C 31,-52 52,-16 52,0 C 52,16 31,52 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1096,151) rotate(294)" opacity="0.07"><path d="M0,0 C 26,-43 43,-13 43,0 C 43,13 26,43 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(216,521) rotate(147)" opacity="0.07"><path d="M0,0 C 24,-40 40,-12 40,0 C 40,12 24,40 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="600" cy="360" r="32" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 600 342 C 582 321, 618 321, 600 342 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="418" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Meet Our Artisan Vendors</text>
+  <text x="50%" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1200×800</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000" role="img" aria-label="Our Story — photo placeholder">
+  <defs>
+    <linearGradient id="g_about_story" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F4C4C"/>
+      <stop offset="100%" stop-color="#A67C52"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="1000" fill="url(#g_about_story)"/>
+  <g transform="translate(313,224) rotate(193)" opacity="0.07"><path d="M0,0 C 58,-97 97,-29 97,0 C 97,29 58,97 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(807,153) rotate(276)" opacity="0.07"><path d="M0,0 C 32,-54 54,-16 54,0 C 54,16 32,54 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(576,643) rotate(318)" opacity="0.07"><path d="M0,0 C 35,-59 59,-18 59,0 C 59,18 35,59 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(648,706) rotate(159)" opacity="0.07"><path d="M0,0 C 46,-76 76,-23 76,0 C 76,23 46,76 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1356,463) rotate(259)" opacity="0.07"><path d="M0,0 C 49,-81 81,-24 81,0 C 81,24 49,81 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(873,933) rotate(129)" opacity="0.07"><path d="M0,0 C 40,-66 66,-20 66,0 C 66,20 40,66 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(225,490) rotate(244)" opacity="0.07"><path d="M0,0 C 56,-94 94,-28 94,0 C 94,28 56,94 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="700" cy="450" r="40" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 700 428 C 678 401, 722 401, 700 428 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="522" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="45" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Our Story</text>
+  <text x="50%" y="581" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1400×1000</text>
+</svg>

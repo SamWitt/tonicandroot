@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Smoked Sage — photo placeholder">
+  <defs>
+    <linearGradient id="g_menu_elixir_3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F4C4C"/>
+      <stop offset="100%" stop-color="#E08A5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#g_menu_elixir_3)"/>
+  <g transform="translate(408,408) rotate(170)" opacity="0.07"><path d="M0,0 C 25,-42 42,-13 42,0 C 42,13 25,42 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(778,753) rotate(265)" opacity="0.07"><path d="M0,0 C 43,-72 72,-22 72,0 C 72,22 43,72 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(97,395) rotate(312)" opacity="0.07"><path d="M0,0 C 58,-96 96,-29 96,0 C 96,29 58,96 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(756,449) rotate(336)" opacity="0.07"><path d="M0,0 C 61,-102 102,-31 102,0 C 102,31 61,102 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(348,756) rotate(168)" opacity="0.07"><path d="M0,0 C 43,-71 71,-21 71,0 C 71,21 43,71 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(671,696) rotate(84)" opacity="0.07"><path d="M0,0 C 28,-47 47,-14 47,0 C 47,14 28,47 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(342,285) rotate(222)" opacity="0.07"><path d="M0,0 C 53,-89 89,-27 89,0 C 89,27 53,89 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="400" cy="360" r="32" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 400 342 C 382 321, 418 321, 400 342 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="418" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Smoked Sage</text>
+  <text x="50%" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 800×800</text>
+</svg>

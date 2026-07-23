@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Rooted Tonic — photo placeholder">
+  <defs>
+    <linearGradient id="g_drink_elixir_3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C9A24B"/>
+      <stop offset="100%" stop-color="#E08A5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g_drink_elixir_3)"/>
+  <g transform="translate(819,1001) rotate(184)" opacity="0.07"><path d="M0,0 C 48,-80 80,-24 80,0 C 80,24 48,80 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(388,953) rotate(92)" opacity="0.07"><path d="M0,0 C 59,-98 98,-29 98,0 C 98,29 59,98 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(586,669) rotate(226)" opacity="0.07"><path d="M0,0 C 52,-86 86,-26 86,0 C 86,26 52,86 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(826,358) rotate(293)" opacity="0.07"><path d="M0,0 C 40,-67 67,-20 67,0 C 67,20 40,67 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(727,1009) rotate(326)" opacity="0.07"><path d="M0,0 C 47,-78 78,-23 78,0 C 78,23 47,78 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(889,677) rotate(343)" opacity="0.07"><path d="M0,0 C 49,-81 81,-24 81,0 C 81,24 49,81 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(392,1048) rotate(171)" opacity="0.07"><path d="M0,0 C 49,-82 82,-25 82,0 C 82,25 49,82 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="450" cy="506" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 450 486 C 430 462, 470 462, 450 486 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="570" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Rooted Tonic</text>
+  <text x="50%" y="622" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 900×1100</text>
+</svg>

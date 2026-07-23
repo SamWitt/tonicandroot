@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="@vineandsunset — photo placeholder">
+  <defs>
+    <linearGradient id="g_instagram_5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B6B6B"/>
+      <stop offset="100%" stop-color="#C96A3D"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g_instagram_5)"/>
+  <g transform="translate(576,576) rotate(93)" opacity="0.07"><path d="M0,0 C 56,-93 93,-28 93,0 C 93,28 56,93 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(487,372) rotate(226)" opacity="0.07"><path d="M0,0 C 61,-101 101,-30 101,0 C 101,30 61,101 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(555,421) rotate(293)" opacity="0.07"><path d="M0,0 C 33,-55 55,-16 55,0 C 55,16 33,55 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(33,278) rotate(326)" opacity="0.07"><path d="M0,0 C 55,-91 91,-27 91,0 C 91,27 55,91 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(264,33) rotate(343)" opacity="0.07"><path d="M0,0 C 50,-84 84,-25 84,0 C 84,25 50,84 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(16,529) rotate(351)" opacity="0.07"><path d="M0,0 C 59,-99 99,-30 99,0 C 99,30 59,99 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(0,66) rotate(355)" opacity="0.07"><path d="M0,0 C 32,-54 54,-16 54,0 C 54,16 32,54 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="300" cy="270" r="24" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 300 257 C 286 241, 314 241, 300 257 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="314" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#F8F3EC" opacity="0.85" letter-spacing="1">@vineandsunset</text>
+  <text x="50%" y="349" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 600×600</text>
+</svg>

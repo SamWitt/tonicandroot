@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700" role="img" aria-label="Farmers Market Pop-Up — photo placeholder">
+  <defs>
+    <linearGradient id="g_event_card_3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A67C52"/>
+      <stop offset="100%" stop-color="#1B6B6B"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#g_event_card_3)"/>
+  <g transform="translate(67,52) rotate(259)" opacity="0.07"><path d="M0,0 C 35,-59 59,-18 59,0 C 59,18 35,59 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(173,269) rotate(129)" opacity="0.07"><path d="M0,0 C 26,-44 44,-13 44,0 C 44,13 26,44 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(11,33) rotate(244)" opacity="0.07"><path d="M0,0 C 53,-89 89,-27 89,0 C 89,27 53,89 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(452,3) rotate(122)" opacity="0.07"><path d="M0,0 C 31,-52 52,-16 52,0 C 52,16 31,52 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(875,351) rotate(241)" opacity="0.07"><path d="M0,0 C 26,-43 43,-13 43,0 C 43,13 26,43 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(787,659) rotate(120)" opacity="0.07"><path d="M0,0 C 24,-40 40,-12 40,0 C 40,12 24,40 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(441,346) rotate(60)" opacity="0.07"><path d="M0,0 C 24,-40 40,-12 40,0 C 40,12 24,40 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="450" cy="316" r="28" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 450 300 C 434 282, 466 282, 450 300 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="366" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="31" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Farmers Market Pop-Up</text>
+  <text x="50%" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 900×700</text>
+</svg>

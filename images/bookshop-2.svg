@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Curated Shelves — photo placeholder">
+  <defs>
+    <linearGradient id="g_bookshop_2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C9A24B"/>
+      <stop offset="100%" stop-color="#0F4C4C"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g_bookshop_2)"/>
+  <g transform="translate(667,815) rotate(189)" opacity="0.07"><path d="M0,0 C 61,-101 101,-30 101,0 C 101,30 61,101 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(491,99) rotate(94)" opacity="0.07"><path d="M0,0 C 52,-87 87,-26 87,0 C 87,26 52,87 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(593,699) rotate(47)" opacity="0.07"><path d="M0,0 C 31,-51 51,-15 51,0 C 51,15 31,51 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(318,915) rotate(23)" opacity="0.07"><path d="M0,0 C 44,-74 74,-22 74,0 C 74,22 44,74 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(187,388) rotate(11)" opacity="0.07"><path d="M0,0 C 48,-80 80,-24 80,0 C 80,24 48,80 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(858,462) rotate(5)" opacity="0.07"><path d="M0,0 C 49,-82 82,-25 82,0 C 82,25 49,82 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(448,884) rotate(2)" opacity="0.07"><path d="M0,0 C 40,-66 66,-20 66,0 C 66,20 40,66 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="450" cy="506" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 450 486 C 430 462, 470 462, 450 486 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="570" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Curated Shelves</text>
+  <text x="50%" y="622" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 900×1100</text>
+</svg>

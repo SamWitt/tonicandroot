@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1300" width="1100" height="1300" role="img" aria-label="Our Founders — photo placeholder">
+  <defs>
+    <linearGradient id="g_about_founders" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6B7C4B"/>
+      <stop offset="100%" stop-color="#C9A24B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="1300" fill="url(#g_about_founders)"/>
+  <g transform="translate(531,627) rotate(331)" opacity="0.07"><path d="M0,0 C 59,-99 99,-30 99,0 C 99,30 59,99 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1065,1218) rotate(165)" opacity="0.07"><path d="M0,0 C 42,-70 70,-21 70,0 C 70,21 42,70 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(548,1290) rotate(262)" opacity="0.07"><path d="M0,0 C 57,-95 95,-28 95,0 C 95,28 57,95 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(375,974) rotate(311)" opacity="0.07"><path d="M0,0 C 61,-101 101,-30 101,0 C 101,30 61,101 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(919,444) rotate(335)" opacity="0.07"><path d="M0,0 C 62,-103 103,-31 103,0 C 103,31 62,103 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(56,867) rotate(347)" opacity="0.07"><path d="M0,0 C 43,-71 71,-21 71,0 C 71,21 43,71 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(759,270) rotate(173)" opacity="0.07"><path d="M0,0 C 38,-63 63,-19 63,0 C 63,19 38,63 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="550" cy="595" r="45" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 550 570 C 525 540, 575 540, 550 570 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="675" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Our Founders</text>
+  <text x="50%" y="740" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1100×1300</text>
+</svg>

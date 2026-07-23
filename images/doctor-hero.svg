@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900" width="1800" height="900" role="img" aria-label="Meet the Doctor — photo placeholder">
+  <defs>
+    <linearGradient id="g_doctor_hero" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F4C4C"/>
+      <stop offset="100%" stop-color="#6B7C4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="900" fill="url(#g_doctor_hero)"/>
+  <g transform="translate(318,159) rotate(165)" opacity="0.07"><path d="M0,0 C 51,-85 85,-26 85,0 C 85,26 51,85 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(579,582) rotate(262)" opacity="0.07"><path d="M0,0 C 31,-51 51,-15 51,0 C 51,15 31,51 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1729,748) rotate(131)" opacity="0.07"><path d="M0,0 C 35,-58 58,-17 58,0 C 58,17 35,58 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(558,431) rotate(245)" opacity="0.07"><path d="M0,0 C 36,-60 60,-18 60,0 C 60,18 36,60 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1271,279) rotate(122)" opacity="0.07"><path d="M0,0 C 56,-93 93,-28 93,0 C 93,28 56,93 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1094,371) rotate(241)" opacity="0.07"><path d="M0,0 C 61,-101 101,-30 101,0 C 101,30 61,101 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(628,385) rotate(300)" opacity="0.07"><path d="M0,0 C 33,-55 55,-16 55,0 C 55,16 33,55 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="900" cy="406" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 900 386 C 880 362, 920 362, 900 386 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Meet the Doctor</text>
+  <text x="50%" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1800×900</text>
+</svg>

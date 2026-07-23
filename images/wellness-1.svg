@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Community Yoga — photo placeholder">
+  <defs>
+    <linearGradient id="g_wellness_1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B6B6B"/>
+      <stop offset="100%" stop-color="#6B7C4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g_wellness_1)"/>
+  <g transform="translate(484,591) rotate(73)" opacity="0.07"><path d="M0,0 C 29,-49 49,-15 49,0 C 49,15 29,49 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(875,1040) rotate(36)" opacity="0.07"><path d="M0,0 C 44,-74 74,-22 74,0 C 74,22 44,74 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(731,267) rotate(18)" opacity="0.07"><path d="M0,0 C 58,-96 96,-29 96,0 C 96,29 58,96 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(438,996) rotate(9)" opacity="0.07"><path d="M0,0 C 61,-102 102,-31 102,0 C 102,31 61,102 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(759,535) rotate(184)" opacity="0.07"><path d="M0,0 C 33,-55 55,-16 55,0 C 55,16 33,55 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(780,755) rotate(92)" opacity="0.07"><path d="M0,0 C 55,-91 91,-27 91,0 C 91,27 55,91 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(159,505) rotate(46)" opacity="0.07"><path d="M0,0 C 60,-100 100,-30 100,0 C 100,30 60,100 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="450" cy="506" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 450 486 C 430 462, 470 462, 450 486 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="570" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Community Yoga</text>
+  <text x="50%" y="622" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 900×1100</text>
+</svg>

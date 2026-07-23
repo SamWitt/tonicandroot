@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900" width="1800" height="900" role="img" aria-label="Volunteer With Us — photo placeholder">
+  <defs>
+    <linearGradient id="g_volunteer_hero" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C96A3D"/>
+      <stop offset="100%" stop-color="#6B7C4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="900" fill="url(#g_volunteer_hero)"/>
+  <g transform="translate(1765,882) rotate(298)" opacity="0.07"><path d="M0,0 C 59,-98 98,-29 98,0 C 98,29 59,98 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1348,448) rotate(149)" opacity="0.07"><path d="M0,0 C 61,-102 102,-31 102,0 C 102,31 61,102 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1659,618) rotate(254)" opacity="0.07"><path d="M0,0 C 62,-103 103,-31 103,0 C 103,31 62,103 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1454,413) rotate(127)" opacity="0.07"><path d="M0,0 C 52,-87 87,-26 87,0 C 87,26 52,87 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(424,727) rotate(63)" opacity="0.07"><path d="M0,0 C 50,-83 83,-25 83,0 C 83,25 50,83 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(699,427) rotate(31)" opacity="0.07"><path d="M0,0 C 59,-98 98,-29 98,0 C 98,29 59,98 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1172,505) rotate(15)" opacity="0.07"><path d="M0,0 C 32,-54 54,-16 54,0 C 54,16 32,54 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="900" cy="406" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 900 386 C 880 362, 920 362, 900 386 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Volunteer With Us</text>
+  <text x="50%" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1800×900</text>
+</svg>

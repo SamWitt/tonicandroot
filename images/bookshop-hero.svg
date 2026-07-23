@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900" width="1800" height="900" role="img" aria-label="Book & Gift Shop — photo placeholder">
+  <defs>
+    <linearGradient id="g_bookshop_hero" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A67C52"/>
+      <stop offset="100%" stop-color="#F8F3EC"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="900" fill="url(#g_bookshop_hero)"/>
+  <g transform="translate(487,244) rotate(325)" opacity="0.07"><path d="M0,0 C 27,-45 45,-14 45,0 C 45,14 27,45 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1271,367) rotate(162)" opacity="0.07"><path d="M0,0 C 34,-57 57,-17 57,0 C 57,17 34,57 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(78,159) rotate(81)" opacity="0.07"><path d="M0,0 C 55,-92 92,-28 92,0 C 92,28 55,92 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(0,18) rotate(40)" opacity="0.07"><path d="M0,0 C 51,-85 85,-26 85,0 C 85,26 51,85 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(452,0) rotate(20)" opacity="0.07"><path d="M0,0 C 31,-51 51,-15 51,0 C 51,15 31,51 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(254,452) rotate(10)" opacity="0.07"><path d="M0,0 C 25,-42 42,-13 42,0 C 42,13 25,42 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1144,508) rotate(5)" opacity="0.07"><path d="M0,0 C 24,-40 40,-12 40,0 C 40,12 24,40 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="900" cy="406" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 900 386 C 880 362, 920 362, 900 386 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Book & Gift Shop</text>
+  <text x="50%" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1800×900</text>
+</svg>

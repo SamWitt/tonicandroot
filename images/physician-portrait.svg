@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Dr. at Vine & Sunset — photo placeholder">
+  <defs>
+    <linearGradient id="g_physician_portrait" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F4C4C"/>
+      <stop offset="100%" stop-color="#6B7C4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g_physician_portrait)"/>
+  <g transform="translate(427,522) rotate(265)" opacity="0.07"><path d="M0,0 C 58,-97 97,-29 97,0 C 97,29 58,97 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(589,341) rotate(132)" opacity="0.07"><path d="M0,0 C 42,-70 70,-21 70,0 C 70,21 42,70 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(35,177) rotate(246)" opacity="0.07"><path d="M0,0 C 47,-79 79,-24 79,0 C 79,24 47,79 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(226,22) rotate(303)" opacity="0.07"><path d="M0,0 C 49,-81 81,-24 81,0 C 81,24 49,81 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(466,276) rotate(151)" opacity="0.07"><path d="M0,0 C 30,-50 50,-15 50,0 C 50,15 30,50 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(367,35) rotate(75)" opacity="0.07"><path d="M0,0 C 25,-42 42,-13 42,0 C 42,13 25,42 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(360,695) rotate(217)" opacity="0.07"><path d="M0,0 C 24,-40 40,-12 40,0 C 40,12 24,40 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="450" cy="506" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 450 486 C 430 462, 470 462, 450 486 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="570" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Dr. at Vine & Sunset</text>
+  <text x="50%" y="622" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 900×1100</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900" width="1800" height="900" role="img" aria-label="Visit Us — photo placeholder">
+  <defs>
+    <linearGradient id="g_contact_hero" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A67C52"/>
+      <stop offset="100%" stop-color="#0F4C4C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="900" fill="url(#g_contact_hero)"/>
+  <g transform="translate(664,332) rotate(6)" opacity="0.07"><path d="M0,0 C 42,-70 70,-21 70,0 C 70,21 42,70 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1278,378) rotate(183)" opacity="0.07"><path d="M0,0 C 38,-63 63,-19 63,0 C 63,19 38,63 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1207,611) rotate(271)" opacity="0.07"><path d="M0,0 C 56,-93 93,-28 93,0 C 93,28 56,93 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(748,300) rotate(315)" opacity="0.07"><path d="M0,0 C 51,-85 85,-26 85,0 C 85,26 51,85 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(720,374) rotate(157)" opacity="0.07"><path d="M0,0 C 50,-83 83,-25 83,0 C 83,25 50,83 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(1511,724) rotate(258)" opacity="0.07"><path d="M0,0 C 49,-82 82,-25 82,0 C 82,25 49,82 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(882,314) rotate(309)" opacity="0.07"><path d="M0,0 C 49,-82 82,-25 82,0 C 82,25 49,82 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="900" cy="406" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 900 386 C 880 362, 920 362, 900 386 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Visit Us</text>
+  <text x="50%" y="522" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1800×900</text>
+</svg>

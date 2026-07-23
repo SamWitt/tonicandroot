@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Volunteers at Work — photo placeholder">
+  <defs>
+    <linearGradient id="g_volunteer_1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6B7C4B"/>
+      <stop offset="100%" stop-color="#C9A24B"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g_volunteer_1)"/>
+  <g transform="translate(515,630) rotate(234)" opacity="0.07"><path d="M0,0 C 35,-58 58,-17 58,0 C 58,17 35,58 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(258,630) rotate(297)" opacity="0.07"><path d="M0,0 C 46,-76 76,-23 76,0 C 76,23 46,76 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(184,906) rotate(148)" opacity="0.07"><path d="M0,0 C 29,-49 49,-15 49,0 C 49,15 29,49 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(575,112) rotate(74)" opacity="0.07"><path d="M0,0 C 35,-58 58,-17 58,0 C 58,17 35,58 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(713,703) rotate(217)" opacity="0.07"><path d="M0,0 C 55,-92 92,-28 92,0 C 92,28 55,92 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(607,638) rotate(108)" opacity="0.07"><path d="M0,0 C 32,-53 53,-16 53,0 C 53,16 32,53 0,0 Z" fill="#F8F3EC"/></g><g transform="translate(431,768) rotate(234)" opacity="0.07"><path d="M0,0 C 45,-75 75,-22 75,0 C 75,22 45,75 0,0 Z" fill="#F8F3EC"/></g>
+  <circle cx="450" cy="506" r="36" fill="none" stroke="#F8F3EC" stroke-width="2" opacity="0.55"/>
+  <path d="M 450 486 C 430 462, 470 462, 450 486 Z" fill="#F8F3EC" opacity="0.55"/>
+  <text x="50%" y="570" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#F8F3EC" opacity="0.85" letter-spacing="1">Volunteers at Work</text>
+  <text x="50%" y="622" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#F8F3EC" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 900×1100</text>
+</svg>
