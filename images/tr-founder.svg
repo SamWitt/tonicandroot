@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" width="1000" height="1250" role="img" aria-label="Amelia Love, ND — photo placeholder">
+  <defs>
+    <linearGradient id="g_tr_founder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E4635"/>
+      <stop offset="100%" stop-color="#164C44"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#g_tr_founder)"/>
+  <path d="M0,775 C180,625 320,900 500,750 C680,600 820,875 1000,725 L1000,1250 L0,1250 Z" fill="#122A22" opacity="0.18"/>
+  <circle cx="500" cy="500" r="70" fill="none" stroke="#F6F1E4" stroke-width="2.5" opacity="0.6"/>
+  <path d="M500,470 C475,435 525,435 500,470 Z" fill="#F6F1E4" opacity="0.6"/>
+  <text x="50%" y="555" text-anchor="middle" font-family="Georgia, serif" font-size="50" fill="#F6F1E4" opacity="0.92" letter-spacing="0.5">Amelia Love, ND</text>
+  <text x="50%" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#F6F1E4" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1000×1250</text>
+</svg>

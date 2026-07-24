@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" role="img" aria-label="Illustrated forest river at Tonic &amp; Root — photo placeholder">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#79A06B"/>
+      <stop offset="100%" stop-color="#2E5D45"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2C8577"/>
+      <stop offset="100%" stop-color="#164C44"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F6F1E4" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#F6F1E4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="vignette" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#122A22" stop-opacity="0.15"/>
+      <stop offset="60%" stop-color="#122A22" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#122A22" stop-opacity="0.78"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1920" height="1080" fill="url(#sky)"/>
+  <circle cx="960" cy="360" r="420" fill="url(#sun)"/>
+
+  <!-- distant canopy, soft rolling blobs -->
+  <path d="M0,420 C180,340 340,460 520,380 C700,300 860,430 1040,370 C1220,310 1380,420 1560,360 C1700,320 1820,380 1920,340 L1920,620 C1700,560 1500,600 1300,560 C1100,520 900,600 700,560 C500,520 260,600 0,540 Z" fill="#1E4635" opacity="0.85"/>
+
+  <!-- mid canopy -->
+  <path d="M0,520 C220,440 400,560 600,490 C800,420 980,540 1180,470 C1380,400 1580,510 1920,460 L1920,760 C1680,700 1420,760 1180,720 C940,680 700,760 460,720 C260,690 120,740 0,700 Z" fill="#2E5D45"/>
+
+  <!-- foreground trees / moss clusters -->
+  <path d="M-40,620 C160,540 300,660 480,580 C640,510 760,600 900,560 L900,860 L-40,860 Z" fill="#4F7A54"/>
+  <path d="M1100,600 C1300,520 1480,640 1680,560 C1780,520 1880,560 1960,540 L1960,860 L1100,860 Z" fill="#4F7A54"/>
+  <path d="M-40,700 C120,660 220,720 360,690 C420,676 480,690 540,682 L540,860 L-40,860 Z" fill="#79A06B" opacity="0.9"/>
+  <path d="M1400,700 C1560,660 1700,730 1860,690 C1900,680 1930,690 1960,684 L1960,860 L1400,860 Z" fill="#79A06B" opacity="0.9"/>
+
+  <!-- river -->
+  <path d="M0,760 C220,700 340,820 560,780 C800,736 900,860 1140,820 C1380,780 1560,880 1780,830 C1840,816 1880,824 1920,812 L1920,1080 L0,1080 Z" fill="url(#water)"/>
+  <path d="M0,800 C260,760 420,840 660,812 C900,784 1020,850 1260,824 C1480,800 1640,850 1920,830 L1920,1080 L0,1080 Z" fill="#6FBDAC" opacity="0.35"/>
+
+  <!-- rounded river stones, every edge a curve -->
+  <ellipse cx="300" cy="920" rx="120" ry="46" fill="#A79274"/>
+  <ellipse cx="300" cy="905" rx="90" ry="30" fill="#C4B291" opacity="0.6"/>
+  <ellipse cx="620" cy="980" rx="150" ry="54" fill="#A79274"/>
+  <ellipse cx="620" cy="962" rx="110" ry="34" fill="#C4B291" opacity="0.55"/>
+  <ellipse cx="1020" cy="930" rx="130" ry="48" fill="#A79274"/>
+  <ellipse cx="1300" cy="990" rx="170" ry="58" fill="#A79274"/>
+  <ellipse cx="1300" cy="970" rx="120" ry="36" fill="#C4B291" opacity="0.5"/>
+  <ellipse cx="1650" cy="940" rx="140" ry="50" fill="#A79274"/>
+
+  <!-- soft light ripples on water -->
+  <path d="M120,860 C220,846 260,876 360,862" stroke="#F6F1E4" stroke-opacity="0.35" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M760,900 C860,884 920,914 1020,898" stroke="#F6F1E4" stroke-opacity="0.3" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M1420,880 C1520,864 1580,894 1680,878" stroke="#F6F1E4" stroke-opacity="0.3" stroke-width="6" fill="none" stroke-linecap="round"/>
+
+  <rect width="1920" height="1080" fill="url(#vignette)"/>
+  <text x="50%" y="1050" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#F6F1E4" opacity="0.6" letter-spacing="2">PHOTO PLACEHOLDER · 1920×1080 · replace with real Tonic &amp; Root photography</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000" role="img" aria-label="Tonic &amp; Root Storefront — photo placeholder">
+  <defs>
+    <linearGradient id="g_tr_storefront" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E5D45"/>
+      <stop offset="100%" stop-color="#2C8577"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="1000" fill="url(#g_tr_storefront)"/>
+  <path d="M0,620 C252,500 448,720 700,600 C952,480 1148,700 1400,580 L1400,1000 L0,1000 Z" fill="#122A22" opacity="0.18"/>
+  <circle cx="700" cy="400" r="70" fill="none" stroke="#F6F1E4" stroke-width="2.5" opacity="0.6"/>
+  <path d="M700,370 C675,335 725,335 700,370 Z" fill="#F6F1E4" opacity="0.6"/>
+  <text x="50%" y="455" text-anchor="middle" font-family="Georgia, serif" font-size="50" fill="#F6F1E4" opacity="0.92" letter-spacing="0.5">Tonic &amp; Root Storefront</text>
+  <text x="50%" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#F6F1E4" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 1400×1000</text>
+</svg>

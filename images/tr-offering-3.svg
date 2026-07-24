@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900" role="img" aria-label="A Place to Pause — photo placeholder">
+  <defs>
+    <linearGradient id="g_tr_offering_3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A79274"/>
+      <stop offset="100%" stop-color="#1E4635"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#g_tr_offering_3)"/>
+  <path d="M0,558 C162,450 288,648 450,540 C612,432 738,630 900,522 L900,900 L0,900 Z" fill="#122A22" opacity="0.18"/>
+  <circle cx="450" cy="360" r="63" fill="none" stroke="#F6F1E4" stroke-width="2.5" opacity="0.6"/>
+  <path d="M450,333 C428,302 472,302 450,333 Z" fill="#F6F1E4" opacity="0.6"/>
+  <text x="50%" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="45" fill="#F6F1E4" opacity="0.92" letter-spacing="0.5">A Place to Pause</text>
+  <text x="50%" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#F6F1E4" opacity="0.55" letter-spacing="2">PHOTO PLACEHOLDER · 900×900</text>
+</svg>

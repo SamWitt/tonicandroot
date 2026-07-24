@@ -1,4 +1,19 @@
 User-agent: *
 Allow: /
+# Legacy pages from the retired "Vine & Sunset" concept remain in this
+# repository unlinked (kept for reference) — keep them out of search results.
+Disallow: /about.html
+Disallow: /menu.html
+Disallow: /events.html
+Disallow: /book-shop.html
+Disallow: /bottle-shop.html
+Disallow: /meet-the-doctor.html
+Disallow: /wellness.html
+Disallow: /donate.html
+Disallow: /volunteer.html
+Disallow: /contact.html
+Disallow: /blog.html
+Disallow: /blog/
+Disallow: /faq.html
 
-Sitemap: https://www.vineandsunset.org/sitemap.xml
+Sitemap: https://www.tonicandroot.org/sitemap.xml
