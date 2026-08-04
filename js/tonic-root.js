@@ -78,44 +78,28 @@
   });
 
   /* -----------------------------------------------------------------------
-   * Amy portrait: scroll-scrubbed photo fade + growing tree backdrop.
-   * One progress value (0 = far from viewport center, 1 = dead center)
-   * drives both the photo's opacity and how much of each tree path is
-   * "drawn" (via the SVG pathLength + stroke-dasharray/-dashoffset trick).
-   * Scrolling past center runs everything back in reverse automatically,
-   * since it's the same value driving both directions — no separate
-   * "reverse" logic needed.
+   * Amy portrait: scroll-scrubbed photo fade.
+   * Progress (0 = far from viewport center, 1 = dead center) drives the
+   * photo's opacity. Scrolling past center fades it back out automatically,
+   * since it's the same value driving both directions.
    * --------------------------------------------------------------------- */
   var scrubEl = document.querySelector(".amy-portrait");
   if (scrubEl) {
     var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     var photoImg = scrubEl.querySelector(".amy-photo-frame img");
-    var treePaths = Array.prototype.slice.call(scrubEl.querySelectorAll(".tree-path"));
-    var treeLeaves = Array.prototype.slice.call(scrubEl.querySelectorAll(".tree-leaf"));
 
     var clamp01 = function (n) {
       return Math.max(0, Math.min(1, n));
     };
 
-    // Ease the raw distance-based progress so growth feels less linear/robotic.
+    // Ease the raw distance-based progress so the fade feels less linear/robotic.
     var smoothstep = function (t) {
       return t * t * (3 - 2 * t);
     };
 
-    var stageOf = function (el) {
-      var parts = (el.getAttribute("data-stage") || "0,1").split(",");
-      return { start: parseFloat(parts[0]), end: parseFloat(parts[1]) };
-    };
-
     if (reduceMotion) {
-      // Static, fully-visible, fully-grown end state — no scroll-linked motion.
+      // Static, fully-visible end state — no scroll-linked motion.
       if (photoImg) photoImg.style.opacity = "1";
-      treePaths.forEach(function (path) {
-        path.style.strokeDashoffset = "0";
-      });
-      treeLeaves.forEach(function (leaf) {
-        leaf.style.opacity = "1";
-      });
     } else {
       var ticking = false;
 
@@ -129,18 +113,6 @@
         var progress = smoothstep(raw);
 
         if (photoImg) photoImg.style.opacity = String(progress);
-
-        treePaths.forEach(function (path) {
-          var stage = stageOf(path);
-          var local = clamp01((progress - stage.start) / (stage.end - stage.start));
-          path.style.strokeDashoffset = String(1 - local);
-        });
-
-        treeLeaves.forEach(function (leaf) {
-          var stage = stageOf(leaf);
-          var local = clamp01((progress - stage.start) / (stage.end - stage.start));
-          leaf.style.opacity = String(local);
-        });
       };
 
       var onScroll = function () {

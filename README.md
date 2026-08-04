@@ -59,13 +59,13 @@ Design tokens live at the top of `css/tonic-root.css`:
 
 ## The "Meet Amelia" scroll effect
 
-The photo and the hand-drawn tree behind it (`.amy-portrait` in `index.html`, styled in `css/tonic-root.css`, driven by `js/tonic-root.js`) are both tied to a single scroll-progress value: how close that block is to the vertical center of the viewport (1 = dead center, 0 = far away in either direction).
+Amy's photo (`.amy-portrait` in `index.html`, styled in `css/tonic-root.css`, driven by `js/tonic-root.js`) fades in and out based on a scroll-progress value: how close that block is to the vertical center of the viewport (1 = dead center, 0 = far away in either direction).
 
-- The photo fades in approaching center and fades back out past it.
-- The tree — built as plain SVG `<path>`s using the `pathLength`/`stroke-dasharray` "line-drawing" technique — draws itself in stages (roots first, then trunk, then branches, then leaves) as progress rises, and un-draws in the same order in reverse as you scroll away. No separate "reverse" logic exists; it's the same value driving both directions.
-- **Respects `prefers-reduced-motion`**: the whole scroll-linked effect is skipped, and the photo/tree simply render fully visible and fully grown, static.
-- **No-JS fallback**: same static, fully-visible/fully-grown state, since the CSS defaults (`opacity: 1`, `stroke-dashoffset: 0`) are the baseline and JS only overrides them when it runs.
-- Tune the feel by editing `range` (how much scroll distance the fade spans) and each path/leaf's `data-stage="start,end"` attribute (when in the 0–1 progress range that piece grows in) in `index.html`.
+- **Respects `prefers-reduced-motion`**: the scroll-linked fade is skipped entirely and the photo simply renders fully visible, static.
+- **No-JS fallback**: same static, fully-visible state, since the CSS default (`opacity: 1`) is the baseline and JS only overrides it when it runs.
+- Tune the feel by editing `range` in `js/tonic-root.js` (how much scroll distance the fade spans).
+
+(An earlier version of this also grew a hand-drawn SVG tree behind the photo in sync with the same scroll value — removed by request, but the scroll-progress engine above is general enough to drive something like that again if wanted.)
 
 ## SEO & structured data
 
