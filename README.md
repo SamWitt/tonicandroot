@@ -55,7 +55,7 @@ Design tokens live at the top of `css/tonic-root.css`:
 - **No physical address, phone number, or hours are shown**, by design — the page intentionally routes all contact and booking through Cadence Holistic rather than guessing at real-world details.
 - **Social links** in the footer are placeholder `href="#"` — replace with real profile URLs once they exist.
 - Copy throughout (bio details, offerings, etc.) is a reasonable first draft — review it against how Amelia and Cadence Holistic actually want the story told before publishing.
-- **`images/amy.jpg` is expected but not included** — the "Meet Amelia" photo references this exact filename. Add a real photo there (any orientation; it's displayed via `object-fit: cover` inside a portrait-ish frame) and it will appear automatically. If you use a different filename or extension, update the one `<img src>` on that line in `index.html`.
+- **Amelia's photo is in place**: `images/Amy.png` is the original upload (3.2MB, kept as the source file); `images/amy.jpg` is a web-optimized derivative (resized to a 1400px long edge, JPEG quality 85, ~124KB) that `index.html` actually references. Regenerate `amy.jpg` from a new source photo the same way if it's ever replaced — full-resolution originals shouldn't be served directly on a page people are meant to load quickly.
 
 ## The "Meet Amelia" scroll effect
 
