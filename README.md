@@ -55,6 +55,17 @@ Design tokens live at the top of `css/tonic-root.css`:
 - **No physical address, phone number, or hours are shown**, by design — the page intentionally routes all contact and booking through Cadence Holistic rather than guessing at real-world details.
 - **Social links** in the footer are placeholder `href="#"` — replace with real profile URLs once they exist.
 - Copy throughout (bio details, offerings, etc.) is a reasonable first draft — review it against how Amelia and Cadence Holistic actually want the story told before publishing.
+- **`images/amy.jpg` is expected but not included** — the "Meet Amelia" photo references this exact filename. Add a real photo there (any orientation; it's displayed via `object-fit: cover` inside a portrait-ish frame) and it will appear automatically. If you use a different filename or extension, update the one `<img src>` on that line in `index.html`.
+
+## The "Meet Amelia" scroll effect
+
+The photo and the hand-drawn tree behind it (`.amy-portrait` in `index.html`, styled in `css/tonic-root.css`, driven by `js/tonic-root.js`) are both tied to a single scroll-progress value: how close that block is to the vertical center of the viewport (1 = dead center, 0 = far away in either direction).
+
+- The photo fades in approaching center and fades back out past it.
+- The tree — built as plain SVG `<path>`s using the `pathLength`/`stroke-dasharray` "line-drawing" technique — draws itself in stages (roots first, then trunk, then branches, then leaves) as progress rises, and un-draws in the same order in reverse as you scroll away. No separate "reverse" logic exists; it's the same value driving both directions.
+- **Respects `prefers-reduced-motion`**: the whole scroll-linked effect is skipped, and the photo/tree simply render fully visible and fully grown, static.
+- **No-JS fallback**: same static, fully-visible/fully-grown state, since the CSS defaults (`opacity: 1`, `stroke-dashoffset: 0`) are the baseline and JS only overrides them when it runs.
+- Tune the feel by editing `range` (how much scroll distance the fade spans) and each path/leaf's `data-stage="start,end"` attribute (when in the 0–1 progress range that piece grows in) in `index.html`.
 
 ## SEO & structured data
 

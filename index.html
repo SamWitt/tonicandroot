@@ -137,8 +137,48 @@
     <section class="section section--forest" id="amelia">
       <div class="container">
         <div class="split split-reverse reveal">
-          <div class="split-media blob-media alt">
-            <img src="images/tr-founder.svg" alt="Amelia Love, ND, founder and owner of Tonic & Root" loading="lazy" width="1000" height="1250">
+          <!-- Photo fades in/out and the tree behind it grows/un-grows as scroll
+               centers on this picture — see .amy-portrait in tonic-root.css and
+               the scroll-scrub engine in tonic-root.js. Falls back to fully
+               visible + fully grown with no JS or with prefers-reduced-motion. -->
+          <div class="split-media amy-portrait">
+            <svg class="amy-tree" viewBox="0 0 640 900" preserveAspectRatio="xMidYMid meet" aria-hidden="true" focusable="false">
+              <!-- roots -->
+              <path class="tree-path tree-root" pathLength="1" data-stage="0,0.42" d="M320,620 C300,660 260,650 230,700 C210,735 220,770 190,800"/>
+              <path class="tree-path tree-root" pathLength="1" data-stage="0.02,0.44" d="M320,630 C340,670 380,660 410,705 C430,738 420,772 450,802"/>
+              <path class="tree-path tree-root" pathLength="1" data-stage="0.05,0.4" d="M320,625 C310,675 290,690 280,740 C275,770 290,800 270,840"/>
+              <path class="tree-path tree-root" pathLength="1" data-stage="0.06,0.41" d="M320,635 C330,678 350,695 360,745 C365,775 350,802 370,845"/>
+              <path class="tree-path tree-root" pathLength="1" data-stage="0,0.46" d="M320,620 C318,680 322,740 318,800 C316,830 322,855 320,875"/>
+
+              <!-- trunk -->
+              <path class="tree-path tree-trunk" pathLength="1" data-stage="0.12,0.55" d="M320,620 C316,540 324,460 318,380 C314,320 322,260 316,190 C313,160 318,145 315,120"/>
+
+              <!-- major branches -->
+              <path class="tree-path tree-branch" pathLength="1" data-stage="0.45,0.75" d="M317,260 C280,230 250,190 205,175 C175,165 150,140 115,130"/>
+              <path class="tree-path tree-branch" pathLength="1" data-stage="0.46,0.76" d="M316,255 C355,225 385,185 430,168 C460,157 485,132 520,120"/>
+
+              <!-- sub-branches / twigs -->
+              <path class="tree-path tree-twig" pathLength="1" data-stage="0.6,0.88" d="M205,175 C190,160 165,155 145,135"/>
+              <path class="tree-path tree-twig" pathLength="1" data-stage="0.61,0.89" d="M430,168 C448,152 472,148 495,128"/>
+              <path class="tree-path tree-twig" pathLength="1" data-stage="0.55,0.85" d="M315,150 C295,120 270,95 235,80 C215,72 195,55 170,45"/>
+              <path class="tree-path tree-twig" pathLength="1" data-stage="0.56,0.86" d="M314,148 C335,118 360,92 395,78 C415,70 435,52 460,42"/>
+              <path class="tree-path tree-twig" pathLength="1" data-stage="0.7,0.95" d="M315,120 C312,95 318,70 314,45 C312,30 316,15 313,5"/>
+
+              <!-- leaves -->
+              <circle class="tree-leaf" data-stage="0.78,1" cx="115" cy="130" r="8"/>
+              <circle class="tree-leaf" data-stage="0.8,1" cx="145" cy="135" r="6"/>
+              <circle class="tree-leaf" data-stage="0.79,1" cx="520" cy="120" r="8"/>
+              <circle class="tree-leaf" data-stage="0.81,1" cx="495" cy="128" r="6"/>
+              <circle class="tree-leaf" data-stage="0.85,1" cx="170" cy="45" r="7"/>
+              <circle class="tree-leaf" data-stage="0.83,1" cx="235" cy="80" r="7"/>
+              <circle class="tree-leaf" data-stage="0.86,1" cx="460" cy="42" r="7"/>
+              <circle class="tree-leaf" data-stage="0.84,1" cx="395" cy="78" r="7"/>
+              <circle class="tree-leaf" data-stage="0.92,1" cx="313" cy="5" r="6"/>
+              <circle class="tree-leaf" data-stage="0.9,1" cx="314" cy="45" r="6"/>
+            </svg>
+            <div class="blob-media alt amy-photo-frame">
+              <img src="images/amy.jpg" alt="Amelia (Amy) Love, ND, founder and owner of Tonic & Root" loading="lazy" width="1000" height="1250">
+            </div>
           </div>
           <div>
             <p class="eyebrow">Founder &amp; Owner</p>

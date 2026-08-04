@@ -675,6 +675,88 @@ a.link-underline:hover {
 }
 
 /* -------------------------------------------------------------------------
+   10b. Amy portrait — scroll-scrubbed photo fade + growing tree backdrop
+   The photo and the tree behind it are both driven by one scroll-progress
+   value computed in tonic-root.js (how close this block is to viewport
+   center). Defaults below (full opacity, fully-drawn tree) are the no-JS /
+   prefers-reduced-motion fallback; JS overrides them once it runs.
+   ------------------------------------------------------------------------- */
+.amy-portrait {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-block: 9% 7%;
+}
+
+.amy-tree {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.tree-path {
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 1;
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 80ms linear;
+}
+
+.tree-path.tree-root {
+  stroke: var(--water-light);
+  stroke-width: 2.5;
+  opacity: 0.7;
+}
+
+.tree-path.tree-trunk {
+  stroke: var(--stone-light);
+  stroke-width: 5;
+  opacity: 0.9;
+}
+
+.tree-path.tree-branch {
+  stroke: var(--cream);
+  stroke-width: 3;
+  opacity: 0.85;
+}
+
+.tree-path.tree-twig {
+  stroke: var(--cream);
+  stroke-width: 2;
+  opacity: 0.7;
+}
+
+.tree-leaf {
+  fill: var(--gold);
+  opacity: 1;
+  transition: opacity 200ms linear;
+}
+
+.amy-photo-frame {
+  position: relative;
+  z-index: 1;
+  width: 74%;
+  background: linear-gradient(135deg, var(--water-deep), var(--forest));
+}
+
+.amy-photo-frame img {
+  opacity: 1;
+  transition: opacity 200ms linear;
+}
+
+@media (max-width: 880px) {
+  .amy-photo-frame {
+    width: 68%;
+  }
+}
+
+/* -------------------------------------------------------------------------
    11. Cards
    ------------------------------------------------------------------------- */
 .card {
