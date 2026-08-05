@@ -40,22 +40,25 @@ Design tokens live at the top of `css/tonic-root.css`:
 
 ## About the imagery
 
-`images/tr-*.svg` are branded placeholder illustrations built in the Tonic & Root palette — including a hand-drawn curvy forest/river hero scene standing in for the real banner photography. **Replace these with real photos before launch**, keeping the same filenames and aspect ratios (noted in each SVG's label) so nothing needs to change in the HTML/CSS.
+`images/tr-*.svg` are branded placeholder illustrations built in the Tonic & Root palette. Two of the original slots now have real photography (see below); the rest are still placeholders. **Replace the remaining ones with real photos before launch**, keeping the same filenames and aspect ratios (noted in each SVG's label) so nothing needs to change in the HTML/CSS.
 
-- `tr-hero.svg` → the full-bleed hero background (1920×1080)
-- `tr-founder.svg` → Amelia Love's portrait (1000×1250)
-- `tr-storefront.svg` → the storefront/space photo (1400×1000)
-- `tr-offering-1/2/3.svg` → the three "What You'll Find Here" cards (900×900 each) — currently unused as `<img>` sources (the cards use icons instead) but generated in case you want to add photography there
-- `tr-og.svg` → **must become a real 1200×630 JPG/PNG** before launch; most social platforms don't render SVG Open Graph images
+- `tr-hero.svg` → the full-bleed hero background (1920×1080) — **still a placeholder**
+- ~~`tr-founder.svg`~~ → replaced by `images/amy.jpg` (Amelia's real photo)
+- ~~`tr-storefront.svg`~~ → replaced by `images/storefront.jpg` (a real photo of the team at a pop-up)
+- `tr-offering-1/2/3.svg` → the three "What You'll Find Here" cards (900×900 each) — currently unused as `<img>` sources (the cards use icons instead) but generated in case you want to add photography there — **still placeholders**
+- `tr-og.svg` → **must become a real 1200×630 JPG/PNG** before launch; most social platforms don't render SVG Open Graph images — **still a placeholder**
 - `tr-favicon.svg` → works in modern browsers; add PNG/ICO fallbacks for full legacy support
 
 ## Content notes — what's real vs. placeholder
 
-- **Cadence Holistic link** (`https://www.cadenceholistic.org`) is real and used throughout as the booking/learn-more destination, opening in a new tab with `rel="noopener noreferrer"`.
-- **No physical address, phone number, or hours are shown**, by design — the page intentionally routes all contact and booking through Cadence Holistic rather than guessing at real-world details.
-- **Social links** in the footer are placeholder `href="#"` — replace with real profile URLs once they exist.
+- **Cadence Holistic link** (`https://www.cadenceholistic.org`) is real, used for "Learn More" and the footer's nonprofit mention. **Booking CTAs** ("Book a Free Consult" / "Book a Free 15-Minute Consultation") link to the real Calendly instead: `https://calendly.com/cadenceholistic`. All external links open in a new tab with `rel="noopener noreferrer"`.
+- **No physical address, phone number, or hours are shown**, by design — the page intentionally routes all contact and booking through Cadence Holistic/Calendly rather than guessing at real-world details.
+- **Social links**: Instagram is real (`https://www.instagram.com/tonicandrootwellness/`). Facebook was removed by request — add it back with a real URL whenever there is one.
 - Copy throughout (bio details, offerings, etc.) is a reasonable first draft — review it against how Amelia and Cadence Holistic actually want the story told before publishing.
-- **Amelia's photo is in place**: `images/Amy.png` is the original upload (3.2MB, kept as the source file); `images/amy.jpg` is a web-optimized derivative (resized to a 1400px long edge, JPEG quality 85, ~124KB) that `index.html` actually references. Regenerate `amy.jpg` from a new source photo the same way if it's ever replaced — full-resolution originals shouldn't be served directly on a page people are meant to load quickly.
+- **Amelia's photo is in place**: `images/Amy.png` is the original upload (3.2MB, kept as the source file); `images/amy.jpg` is a web-optimized derivative (resized to a 1400px long edge, JPEG quality 85, ~124KB) that `index.html` actually references.
+- **The storefront photo is in place**: `images/storefront.jpeg` is the original upload (807KB, kept as the source file); `images/storefront.jpg` is the web-optimized derivative (1050×1400, JPEG quality 85, ~344KB) that `index.html` references.
+- If either photo is ever replaced, regenerate its optimized derivative the same way (resize to a ~1400px long edge, re-encode as progressive JPEG quality 85) — full-resolution originals shouldn't be served directly on a page people are meant to load quickly.
+- **Both photo frames keep the organic blob-morph hover effect** (`.blob-media`, no `.alt` modifier — see "The Meet Amelia scroll effect" below and `css/tonic-root.css`). Don't add the `.alt` class to either frame's wrapper `<div>`, or the resting shape and the `:hover` shape will resolve to the same value and the hover animation will silently do nothing (this happened once already — see git history).
 
 ## The "Meet Amelia" scroll effect
 
