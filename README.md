@@ -2,7 +2,7 @@
 
 Where Wellness Takes Root.
 
-Tonic & Root is a wellness-focused botanical storefront founded and owned by naturopathic physician **Amelia Love, ND**. It's a branch of [Cadence Holistic](https://www.cadenceholistic.org), a 501(c)(3) nonprofit — the storefront serves as a warm, no-pressure front door to Amelia's naturopathic practice, where visitors can book a consultation.
+Tonic & Root is a wellness-focused botanical pop-up founded and owned by naturopathic physician **Amelia Love, ND**. It's a branch of [Cadence Holistic](https://www.cadenceholistic.org), a 501(c)(3) nonprofit — the pop-up serves as a warm, no-pressure front door to Amelia's naturopathic practice, where visitors can book a consultation.
 
 This repository now ships a **single landing page** (`index.html`) as the live site. It previously held a full multi-page site for a different, earlier concept ("Vine & Sunset") — those pages are still in the repo for reference but are no longer linked from navigation or included in the sitemap. See "About the legacy pages" below.
 
@@ -56,7 +56,7 @@ Design tokens live at the top of `css/tonic-root.css`:
 - **Social links**: Instagram is real (`https://www.instagram.com/tonicandrootwellness/`). Facebook was removed by request — add it back with a real URL whenever there is one.
 - Copy throughout (bio details, offerings, etc.) is a reasonable first draft — review it against how Amelia and Cadence Holistic actually want the story told before publishing.
 - **Amelia's photo is in place**: `images/Amy.png` is the original upload (3.2MB, kept as the source file); `images/amy.jpg` is a web-optimized derivative (resized to a 1400px long edge, JPEG quality 85, ~124KB) that `index.html` actually references.
-- **The storefront photo is in place**: `images/storefront.jpeg` is the original upload (807KB, kept as the source file); `images/storefront.jpg` is the web-optimized derivative (1050×1400, JPEG quality 85, ~344KB) that `index.html` references.
+- **The pop-up photo is in place** (filenames kept as `storefront.*`, matching what was uploaded — the site copy itself no longer says "storefront"): `images/storefront.jpeg` is the original upload (807KB, kept as the source file); `images/storefront.jpg` is the web-optimized derivative (1050×1400, JPEG quality 85, ~344KB) that `index.html` references.
 - If either photo is ever replaced, regenerate its optimized derivative the same way (resize to a ~1400px long edge, re-encode as progressive JPEG quality 85) — full-resolution originals shouldn't be served directly on a page people are meant to load quickly.
 - **Both photo frames keep the organic blob-morph hover effect** (`.blob-media`, no `.alt` modifier — see "The Meet Amelia scroll effect" below and `css/tonic-root.css`). Don't add the `.alt` class to either frame's wrapper `<div>`, or the resting shape and the `:hover` shape will resolve to the same value and the hover animation will silently do nothing (this happened once already — see git history).
 
