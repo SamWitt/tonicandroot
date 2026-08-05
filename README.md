@@ -2,7 +2,7 @@
 
 Where Wellness Takes Root.
 
-Tonic & Root is a wellness-focused botanical storefront founded and owned by naturopathic physician **Amelia Love, ND**. It's a branch of [Cadence Holistic](https://www.cadenceholistic.org), a 501(c)(3) nonprofit — the storefront serves as a warm, no-pressure front door to Amelia's naturopathic practice, where visitors can book a free 15-minute consultation.
+Tonic & Root is a wellness-focused botanical storefront founded and owned by naturopathic physician **Amelia Love, ND**. It's a branch of [Cadence Holistic](https://www.cadenceholistic.org), a 501(c)(3) nonprofit — the storefront serves as a warm, no-pressure front door to Amelia's naturopathic practice, where visitors can book a consultation.
 
 This repository now ships a **single landing page** (`index.html`) as the live site. It previously held a full multi-page site for a different, earlier concept ("Vine & Sunset") — those pages are still in the repo for reference but are no longer linked from navigation or included in the sitemap. See "About the legacy pages" below.
 
@@ -51,7 +51,7 @@ Design tokens live at the top of `css/tonic-root.css`:
 
 ## Content notes — what's real vs. placeholder
 
-- **Cadence Holistic link** (`https://www.cadenceholistic.org`) is real, used for "Learn More" and the footer's nonprofit mention. **Booking CTAs** ("Book a Free Consult" / "Book a Free 15-Minute Consultation") link to the real Calendly instead: `https://calendly.com/cadenceholistic`. All external links open in a new tab with `rel="noopener noreferrer"`.
+- **Cadence Holistic link** (`https://www.cadenceholistic.org`) is real, used for "Learn More" and the footer's nonprofit mention. **Booking CTAs** ("Book a Consultation") link to the real Calendly instead: `https://calendly.com/cadenceholistic`. All external links open in a new tab with `rel="noopener noreferrer"`.
 - **No physical address, phone number, or hours are shown**, by design — the page intentionally routes all contact and booking through Cadence Holistic/Calendly rather than guessing at real-world details.
 - **Social links**: Instagram is real (`https://www.instagram.com/tonicandrootwellness/`). Facebook was removed by request — add it back with a real URL whenever there is one.
 - Copy throughout (bio details, offerings, etc.) is a reasonable first draft — review it against how Amelia and Cadence Holistic actually want the story told before publishing.
