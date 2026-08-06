@@ -220,6 +220,42 @@
         </div>
       </div>
     </section>
+
+    <div class="wave-divider" style="background:var(--forest-deep);" aria-hidden="true">
+      <svg viewBox="0 0 1440 100" preserveAspectRatio="none"><path d="M0,40 C240,90 480,0 720,40 C960,80 1200,10 1440,50 L1440,100 L0,100 Z" fill="var(--cream)"/></svg>
+    </div>
+
+    <!-- ==================== NEWSLETTER SIGNUP ==================== -->
+    <section class="section" id="newsletter">
+      <div class="container container--narrow text-center reveal">
+        <p class="eyebrow" style="justify-content:center">Stay Rooted</p>
+        <h2>Get the occasional dispatch</h2>
+        <p class="lede" style="margin-inline:auto">Pop-up dates, new tonics, and updates from Amelia — a few emails a season, never more.</p>
+
+        <!-- Submissions go to a Google Sheet via Apps Script; see js/tonic-root.js
+             (NEWSLETTER_SHEET_ENDPOINT) and README.md "Newsletter signup" for setup. -->
+        <form class="newsletter-form" id="newsletter-form" novalidate>
+          <div class="newsletter-form-row">
+            <label class="visually-hidden" for="newsletter-email">Email address</label>
+            <input type="email" id="newsletter-email" name="email" placeholder="you@example.com" autocomplete="email" required>
+            <button type="submit" class="btn btn-primary">Sign Up</button>
+          </div>
+
+          <!-- Honeypot: invisible to real visitors and skipped by screen readers/keyboard
+               nav. Bots that auto-fill every field trip it; we quietly drop the submit. -->
+          <div class="hp-field" aria-hidden="true">
+            <label for="newsletter-company">Company</label>
+            <input type="text" id="newsletter-company" name="company" tabindex="-1" autocomplete="off">
+          </div>
+
+          <p class="newsletter-status" id="newsletter-status" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+
+    <div class="wave-divider" style="background:var(--cream);" aria-hidden="true">
+      <svg viewBox="0 0 1440 100" preserveAspectRatio="none"><path d="M0,50 C240,10 480,90 720,50 C960,10 1200,80 1440,40 L1440,100 L0,100 Z" fill="var(--forest-deep)"/></svg>
+    </div>
   </main>
 
   <!-- ==================== FOOTER ==================== -->

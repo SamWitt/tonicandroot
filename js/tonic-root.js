@@ -127,4 +127,105 @@
       update();
     }
   }
+
+  /* -----------------------------------------------------------------------
+   * Newsletter signup: submits to a Google Sheet via a Google Apps Script
+   * Web App. Two bot defenses run entirely client-side, before any network
+   * request is made:
+   *   - Honeypot: #newsletter-company is off-canvas CSS, invisible to real
+   *     visitors. Bots that fill every field trip it.
+   *   - Time-trap: no human reads the copy and fills an email field in
+   *     under 1.5s of the form appearing.
+   * Both cases fail "successfully" (no error shown) so bots don't learn
+   * they were caught, and no request is sent for them.
+   *
+   * SETUP: replace NEWSLETTER_SHEET_ENDPOINT below with your deployed
+   * Apps Script Web App URL. See README.md "Newsletter signup" for the
+   * step-by-step (create the sheet, paste the Apps Script, deploy, copy
+   * the /exec URL here). Until it's set, the form shows a friendly
+   * "not connected yet" message instead of silently failing.
+   * --------------------------------------------------------------------- */
+  var NEWSLETTER_SHEET_ENDPOINT = "PASTE_YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE";
+
+  var newsletterForm = document.getElementById("newsletter-form");
+  if (newsletterForm) {
+    var formRenderedAt = Date.now();
+    var newsletterEmail = document.getElementById("newsletter-email");
+    var newsletterHoneypot = document.getElementById("newsletter-company");
+    var newsletterSubmit = newsletterForm.querySelector("button[type=submit]");
+    var newsletterStatus = document.getElementById("newsletter-status");
+    var emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+    var showNewsletterStatus = function (message, isError) {
+      if (!newsletterStatus) return;
+      newsletterStatus.textContent = message;
+      newsletterStatus.classList.toggle("is-error", !!isError);
+    };
+
+    newsletterForm.addEventListener("submit", function (e) {
+      e.preventDefault();
+
+      // Honeypot tripped — pretend success, send nothing.
+      if (newsletterHoneypot && newsletterHoneypot.value) {
+        showNewsletterStatus("You're on the list! 🌿", false);
+        newsletterForm.reset();
+        return;
+      }
+
+      // Submitted too fast to be human — pretend success, send nothing.
+      if (Date.now() - formRenderedAt < 1500) {
+        showNewsletterStatus("You're on the list! 🌿", false);
+        newsletterForm.reset();
+        return;
+      }
+
+      var email = newsletterEmail ? newsletterEmail.value.trim() : "";
+      if (!email || !emailPattern.test(email)) {
+        showNewsletterStatus("Please enter a valid email address.", true);
+        return;
+      }
+
+      if (NEWSLETTER_SHEET_ENDPOINT.indexOf("PASTE_") === 0) {
+        showNewsletterStatus("Signup isn't connected yet — check back soon.", true);
+        return;
+      }
+
+      if (newsletterSubmit) newsletterSubmit.disabled = true;
+      showNewsletterStatus("Signing you up…", false);
+
+      fetch(NEWSLETTER_SHEET_ENDPOINT, {
+        method: "POST",
+        // text/plain avoids a CORS preflight (Apps Script Web Apps don't
+        // handle OPTIONS); the Apps Script side does JSON.parse(e.postData.contents).
+        headers: { "Content-Type": "text/plain;charset=utf-8" },
+        body: JSON.stringify({ email: email })
+      })
+        .then(function (res) {
+          return res.json();
+        })
+        .then(function (data) {
+          if (data && data.ok) {
+            showNewsletterStatus("You're on the list! 🌿", false);
+            newsletterForm.reset();
+          } else {
+            showNewsletterStatus(
+              data && data.error === "invalid_email"
+                ? "Please enter a valid email address."
+                : "Something went wrong. Please try again.",
+              true
+            );
+          }
+        })
+        .catch(function () {
+          // Apps Script's response can come back opaque to fetch() in some
+          // browsers even when the row was written successfully, so we fail
+          // optimistically rather than tell a signed-up visitor it broke.
+          showNewsletterStatus("You're on the list! 🌿", false);
+          newsletterForm.reset();
+        })
+        .then(function () {
+          if (newsletterSubmit) newsletterSubmit.disabled = false;
+        });
+    });
+  }
 })();

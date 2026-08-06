@@ -77,6 +77,24 @@ Amy's photo (`.amy-portrait` in `index.html`, styled in `css/tonic-root.css`, dr
 - `sitemap.xml` lists only the homepage. `robots.txt` explicitly disallows the legacy pages (see below) so they don't get indexed even though the files still exist.
 - Update the domain (currently `https://www.tonicandroot.org/`) if it changes.
 
+## Newsletter signup
+
+The "Stay Rooted" section on the homepage (`#newsletter`) collects emails with no backend of its own — like the rest of the site, it's static. It submits to a Google Sheet through a free Google Apps Script Web App, and screens out bots client-side before anything is sent:
+
+- **Honeypot** — a `company` field hidden off-canvas (`.hp-field` in `css/tonic-root.css`). Real visitors never see or focus it (it's also `aria-hidden`/`tabindex="-1"`, so screen readers and keyboard nav skip it too); bots that blindly fill every field trip it and the submit is silently dropped.
+- **Time-trap** — a submit within 1.5s of the form rendering is treated as a bot, not a fast typist.
+
+Both cases return the same success message as a real signup, so scripted bots don't get a signal to adapt to.
+
+**Setup (one-time):**
+1. Create a Google Sheet (or reuse one) with a tab named `Signups`, columns `Timestamp` and `Email`.
+2. In that sheet, open **Extensions → Apps Script**, delete the boilerplate, and paste in `google-apps-script/newsletter-signup.gs` from this repo.
+3. **Deploy → New deployment** → type **Web app** → Execute as **Me**, Who has access **Anyone**. Deploy and copy the `/exec` URL.
+4. In `js/tonic-root.js`, replace `NEWSLETTER_SHEET_ENDPOINT`'s placeholder value with that URL.
+5. Submit the form once yourself to confirm a row lands in the sheet, then check spam-filtering by leaving the honeypot alone (normal use already skips it — the field's just there for bots).
+
+Until step 4 is done, the form shows "Signup isn't connected yet" instead of failing silently.
+
 ## Accessibility
 
 - Semantic landmarks, one `<h1>` (the "Tonic & Root" hero wordmark), skip-to-content link.
